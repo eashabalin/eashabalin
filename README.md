@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eashabalin
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter, Dart
-- 💞️ I’m looking to collaborate on creating great mobile apps
+- 💞️ I’m looking to collaborate on creating cool mobile apps
 - 📫 How to reach me: @eashabalin (Telegram), eashabalin.1@gmail.com, +7(952)716-35-25 (RU)
 
 <!---
